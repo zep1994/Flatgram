@@ -2,6 +2,7 @@
   "name": "Flatgram",
   "private": true,
   "dependencies": {
-    "popper.js": "^1.14.5"
+    "popper.js": "^1.14.5",
+    "toastr": "^2.1.4"
   }
 }
